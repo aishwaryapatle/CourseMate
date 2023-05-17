@@ -1,13 +1,6 @@
-<!-- # Advanced_Java_JSP
+# StudyStream (An Online Education Web Application)
 
-### JSP DAY 01
-For writing any data to the buffer, JSP provides an implicit object named out. It is the object of JspWriter. In case of servlet you need to write:
-```
-PrintWriter out = response.getWriter();
-```
-But in JSP, you don't need to write this code. 
+A user-friendly Web Application for creating a virtual classroom environment with three modules namely an admin, a teacher and a student module, streamlining course management and communication.
 
 ##
-### JSP DAY 02
-
-### JSP DAY 03 -->
+### Features:
